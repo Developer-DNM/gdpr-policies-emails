@@ -18,7 +18,9 @@ Here is a list of organisations, their privacy policies and response to GDPR as 
 |  Udemy | [https://www.udemy.com](https://www.udemy.com) | [https://www.udemy.com/terms/privacy/](https://www.udemy.com/terms/privacy/) |  | [Email](emails/udemy.md) |
 |  Xero | [https://www.xero.com/](https://www.xero.com/) | [https://www.xero.com/au/about/terms/privacy/](https://www.xero.com/au/about/terms/privacy/) | [https://www.xero.com/uk/campaigns/xero-and-gdpr/](https://www.xero.com/uk/campaigns/xero-and-gdpr/) | [Email](emails/xero.md) |
 |  You Can Book Me | [https://youcanbook.me/](https://youcanbook.me/) | [https://youcanbook.me/privacy/](https://youcanbook.me/privacy/) |  | [Email](emails/youcanbookme.md) |
-
+|  GDPR Checklist |[https://gdprchecklist.io/](https://gdprchecklist.io/) | [https://gdprchecklist.io/](https://youcanbook.me/privacy/) |  | [Email]( ) |
+|  Drip | [https://www.drip.com/](https://www.drip.com/) | [https://help.drip.com/hc/en-us/articles/360000427891-EU-Compliance-Consent-GDPR-](https://help.drip.com/hc/en-us/articles/360000427891-EU-Compliance-Consent-GDPR-) |  | [Email]( ) |
+|  Mixpanel | [https://mixpanel.com/](https://mixpanel.com/) | [https://mixpanel.com/legal/gdpr-resources/](https://mixpanel.com/legal/gdpr-resources/) |  | [Email]( ) |
 
 **How to contribute**
 - Convert html emails to markdown. You can use [this tool](https://euangoddard.github.io/clipboard2markdown/). Make sure you convert all links to absolute links (no redirect, no UIDs, no tracking codes)
